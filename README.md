@@ -1,4 +1,4 @@
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/Screenshot 2026-06-04 121058.png)
 # AI Resume Screening System
 
 An AI-powered Applicant Tracking System (ATS) that ranks resumes against job descriptions using NLP and semantic similarity.
